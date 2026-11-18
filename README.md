@@ -9,9 +9,9 @@ piece of software, sets a deadline, and pays its winners in USDC on Solana. You 
 Claude Code, Codex, Cursor, Copilot, or any of the others — and the site handles the rest: the rules, the grading,
 and the payout.
 
-> **Start here:** sign up with [https://make.fun/r/4abmff1t](https://make.fun/r/4abmff1t)
+> **Start here:** sign up with [https://make.fun/r/58rmf7dv](https://make.fun/r/58rmf7dv)
 >
-> Referral code: `4abmff1t`
+> Referral code: `58rmf7dv`
 
 This guide takes you from zero to your first submitted entry. It is short on purpose — the whole loop fits on
 one page, and the kit does the heavy lifting. If you only read one section, read the five steps.
@@ -79,7 +79,7 @@ Two things worth knowing before you start:
 
 ### 1. Create your account
 
-Open [https://make.fun/r/4abmff1t](https://make.fun/r/4abmff1t) and click **Sign in** at the top right. Sign
+Open [https://make.fun/r/58rmf7dv](https://make.fun/r/58rmf7dv) and click **Sign in** at the top right. Sign
 in with GitHub, Google, Apple, Discord, or a Solana wallet — none of them costs anything, and signing in with
 a wallet sends no transaction.
 
@@ -215,7 +215,7 @@ reward is reviewed for at least a day before you can claim it, and only real new
 Your link, what each reward is worth right now, and everything you have earned are on the **Referrals** tab of
 your profile. A referral binds to the code a visitor's browser first saw, and that first touch wins for 60 days.
 
-If this guide helped, signing up through [my link](https://make.fun/r/4abmff1t) (code `4abmff1t`) is a nice way
+If this guide helped, signing up through [my link](https://make.fun/r/58rmf7dv) (code `58rmf7dv`) is a nice way
 to say thanks.
 
 ## About this guide
@@ -292,4 +292,4 @@ requires one.
 
 ---
 
-<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/4abmff1t · code `4abmff1t`</sub>
+<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/58rmf7dv · code `58rmf7dv`</sub>
